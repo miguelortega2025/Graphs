@@ -1,2 +1,2 @@
-# Teoria-de-grafos
-Se realizará ejercicios de este tópico. 
+# Graphs
+Exercises on this topic will be carried out.
