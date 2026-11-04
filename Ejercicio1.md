@@ -19,9 +19,8 @@ Draw graph models, stating the type of graph (from Table 1) used, to represent a
 **Graph Type:** Simple undirected graph.
 
 **Representation:**
-> *Note: Replace `route_a.png` with your actual image filename.*
+<img width="815" height="330" alt="image" src="https://github.com/user-attachments/assets/3510fe90-877e-4501-a218-8335d1679f3c" />
 
-![Graph part a](route_a.png)
 
 ---
 
@@ -30,9 +29,8 @@ Draw graph models, stating the type of graph (from Table 1) used, to represent a
 **Graph Type:** Undirected multigraph.
 
 **Representation:**
-> *Note: Replace `route_b.png` with your actual image filename.*
+<img width="776" height="426" alt="image" src="https://github.com/user-attachments/assets/53dfcc2b-42b0-49b0-ae82-82529aaf8705" />
 
-![Graph part b](route_b.png)
 
 ---
 
@@ -41,9 +39,8 @@ Draw graph models, stating the type of graph (from Table 1) used, to represent a
 **Graph Type:** Undirected multigraph with loops.
 
 **Representation:**
-> *Note: Replace `route_c.png` with your actual image filename.*
+<img width="894" height="369" alt="image" src="https://github.com/user-attachments/assets/b8c01d79-f291-42ef-b1d5-b1a0a1ddcf0f" />
 
-![Graph part c](route_c.png)
 
 ---
 
@@ -52,9 +49,8 @@ Draw graph models, stating the type of graph (from Table 1) used, to represent a
 **Graph Type:** Directed graph (Digraph).
 
 **Representation:**
-> *Note: Replace `route_d.png` with your actual image filename.*
+<img width="768" height="332" alt="image" src="https://github.com/user-attachments/assets/bda66c8a-4c2b-45ef-84bb-ea6b636d4647" />
 
-![Graph part d](route_d.png)
 
 ---
 
@@ -63,6 +59,5 @@ Draw graph models, stating the type of graph (from Table 1) used, to represent a
 **Graph Type:** Directed multigraph.
 
 **Representation:**
-> *Note: Replace `route_e.png` with your actual image filename.*
+<img width="705" height="322" alt="image" src="https://github.com/user-attachments/assets/294ad96c-ee68-406a-a21b-48c50f061a69" />
 
-![Graph part e](route_e.png)
